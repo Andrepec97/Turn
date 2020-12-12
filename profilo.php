@@ -20,8 +20,24 @@ include_once ('menu.php');
 ?>
 <body onload="document.getElementById('profilo').className='nav-link active';"style="background-color:#e3f2fd">
 
-<div style="width:90vw;height:90vh;" class="mx-auto">
-    <pre>ciao</pre>
+<div style="padding:10px;margin-top:15px;background-color:white;width:90vw;min-height:80vh;border-radius:5px;" class="mx-auto">
+    <div style="margin-top:15px;background-color:white;width:40vw;min-height:80vh;border-radius:5px;" class="mx-auto">
+    <h1 style="text-align:center;"class="h2">Il Mio Profilo</h1>
+        <form>
+            <div class="form-floating">
+                <input disabled type="Text" class="form-control" id="Nome" placeholder="Mario" value="Mario">
+                <label for="Nome">Nome</label><br/>
+            </div>
+            <div class="form-floating">
+                <input disabled type="Text" class="form-control" id="Cognome" placeholder="Mario" value="Rossi">
+                <label for="Cognome">Cognome</label><br/>
+            </div>
+            <div class="form-floating">
+                <input disabled type="Text" class="form-control" id="Mansione" placeholder="Mario" value="Impiegato">
+                <label for="Mansione">Mansione</label><br/>
+            </div>
+        </form>
+    <div>
 </div>
 
 

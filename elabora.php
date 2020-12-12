@@ -1,36 +1,5 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
-
-@Andrepec97
-Andrepec97
-/
-Turn
-1
-0
-0
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Turn/elabora.php /
-@Andrepec97
-Andrepec97 impostazione di base prgramma
-Latest commit 2f4ac3c 5 minutes ago
-History
-1 contributor
-62 lines (56 sloc)  2.5 KB
-IntelliJ IDEAPhpStormWebStorm
 <?php
+#TODO:bisognerebbe scrivere il funzionamento del programma entro domani;
 /*
  * Questa pagina serve per testare l'utenza e
  * valutare se è possibile accedere al programma o
