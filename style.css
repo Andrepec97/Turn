@@ -1,0 +1,56 @@
+body{
+    background-color: lightskyblue;
+}
+
+@media only screen and (min-device-width: 0px) and (max-device-width: 450px) {
+    .form-login{
+        margin-top:10vh;
+    }
+    .access{
+        background-color:white;
+        width:80vw;
+        height:120vw;
+        margin-top:15vh;
+        border-radius:5px;
+    }
+}
+@media only screen and (min-device-width: 451px) and (max-device-width: 600px) {
+    .form-login{
+        margin-top:10vh;
+    }
+    .access{
+        background-color:white;
+        width:65vw;
+        height:65vh;
+        margin-top:15vh;
+        border-radius:5px;
+    }
+}
+@media only screen and (min-device-width: 601px) and (max-device-width: 800px) {
+    .access{
+        background-color:white;
+        width:50vw;
+        height:60vw;
+        margin-top:30vh;
+        border-radius:5px;
+    }
+}
+@media only screen and (min-device-width: 801px) and (max-device-width: 1249px) {
+    .access{
+        background-color:white;
+        width:40vw;
+        height:65vh;
+        margin-top:5vw;
+        border-radius:5px;
+    }
+}
+@media only screen and (min-device-width: 1250px){
+
+    .access{
+        background-color:white;
+        width:30vw;
+        height:35vw;
+        margin-top:5vw;
+        border-radius:5px;
+    }
+}
