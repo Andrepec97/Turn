@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c89e8660-2254-4910-8ec8-e7f644e420cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gestione_dipendenti.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestione_reparti.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/impostazioni.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profilo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turni.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elabora.php" beforeDir="false" afterPath="$PROJECT_DIR$/elabora.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/mailer/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lNoiRad30x7J15oJEKqnwlo6Qp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Turn" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Turn" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c89e8660-2254-4910-8ec8-e7f644e420cc" name="Default Changelist" comment="" />
+      <created>1607447055376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607447055376</updated>
+      <workItem from="1607447056453" duration="374000" />
+      <workItem from="1607764709100" duration="20174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="267" key="#SQL_Dialects" timestamp="1607787061153">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="0" y="267" key="#SQL_Dialects/0.25.1440.817@0.25.1440.817" timestamp="1607787061153" />
+    <state x="320" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607787098566">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="320" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.817@0.25.1440.817" timestamp="1607787098566" />
+    <state width="229" height="457" key="HiddenNamespacesPopup" timestamp="1607447251530">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state width="229" height="457" key="HiddenNamespacesPopup/0.25.1440.817@0.25.1440.817" timestamp="1607447251530" />
+    <state x="511" y="360" key="NewPhpFileDialog" timestamp="1607795646273">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="511" y="360" key="NewPhpFileDialog/0.25.1440.817@0.25.1440.817" timestamp="1607795646273" />
+    <state x="229" y="69" key="SettingsEditor" timestamp="1607767914747">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="229" y="69" key="SettingsEditor/0.25.1440.817@0.25.1440.817" timestamp="1607767914747" />
+    <state x="521" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607447152896">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="521" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.817@0.25.1440.817" timestamp="1607447152896" />
+    <state x="385" y="166" width="670" height="676" key="search.everywhere.popup" timestamp="1607791312647">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="385" y="166" width="670" height="676" key="search.everywhere.popup/0.25.1440.817@0.25.1440.817" timestamp="1607791312647" />
+  </component>
+</project>
