@@ -26,9 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c89e8660-2254-4910-8ec8-e7f644e420cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elabora.php" beforeDir="false" afterPath="$PROJECT_DIR$/elabora.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profilo.php" beforeDir="false" afterPath="$PROJECT_DIR$/profilo.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +57,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Turn" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -79,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607447055376</updated>
       <workItem from="1607447056453" duration="374000" />
-      <workItem from="1607764709100" duration="22117000" />
+      <workItem from="1607764709100" duration="22168000" />
+      <workItem from="1608919194281" duration="95000" />
     </task>
     <servers />
   </component>
@@ -107,6 +108,10 @@
       <screen x="0" y="25" width="1440" height="817" />
     </state>
     <state x="320" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.817@0.25.1440.817" timestamp="1607787098566" />
+    <state x="361" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608919220034">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="361" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.817@0.25.1440.817" timestamp="1608919220034" />
     <state width="229" height="457" key="HiddenNamespacesPopup" timestamp="1607447251530">
       <screen x="0" y="25" width="1440" height="817" />
     </state>
