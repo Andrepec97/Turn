@@ -1,7 +1,5 @@
 <?php
-session_start();
-if(!isset($_SESSION['check'])||$_SESSION['check']!=true) header("location:login.php?errore=4");
-$utente = mysql_query("SELECT");
+    include_once('checklog.php');
 ?>
 <!doctype html>
 <html lang="en">
@@ -15,10 +13,7 @@ $utente = mysql_query("SELECT");
 
     <title>Turn - Gestione Dipendenti</title>
 </head>
-<?php
-include_once ('menu.php');
-?>
-<body onload="document.getElementById('GestioneDipendenti').className='nav-link active';"style="background-color: lightskyblue">
+<body onload="document.getElementById('GestioneDipendenti').className='nav-link active';"style="background-color:#e3f2fd">
 <!-- Optional JavaScript; choose one of the two! -->
 
 <!-- Option 1: Bootstrap Bundle with Popper -->

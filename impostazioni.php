@@ -18,7 +18,7 @@ $utente = mysql_query("SELECT");
 <?php
 include_once ('menu.php');
 ?>
-<body onload="document.getElementById('impostazioni').className='nav-link active';"style="background-color: lightskyblue">
+<body onload="document.getElementById('impostazioni').className='nav-link active';"style="background-color:#e3f2fd">
 <!-- Optional JavaScript; choose one of the two! -->
 
 <!-- Option 1: Bootstrap Bundle with Popper -->
