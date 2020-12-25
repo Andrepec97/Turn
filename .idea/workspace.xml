@@ -26,8 +26,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c89e8660-2254-4910-8ec8-e7f644e420cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checklog.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestione_dipendenti.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestione_dipendenti.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestione_reparti.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestione_reparti.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impostazioni.php" beforeDir="false" afterPath="$PROJECT_DIR$/impostazioni.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turni.php" beforeDir="false" afterPath="$PROJECT_DIR$/turni.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +66,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -80,7 +84,8 @@
       <updated>1607447055376</updated>
       <workItem from="1607447056453" duration="374000" />
       <workItem from="1607764709100" duration="22168000" />
-      <workItem from="1608919194281" duration="95000" />
+      <workItem from="1608919194281" duration="452000" />
+      <workItem from="1608919787171" duration="354000" />
     </task>
     <servers />
   </component>
@@ -104,10 +109,10 @@
       <screen x="0" y="25" width="1440" height="817" />
     </state>
     <state x="0" y="267" key="#SQL_Dialects/0.25.1440.817@0.25.1440.817" timestamp="1607787061153" />
-    <state x="320" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607787098566">
+    <state x="320" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608920045205">
       <screen x="0" y="25" width="1440" height="817" />
     </state>
-    <state x="320" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.817@0.25.1440.817" timestamp="1607787098566" />
+    <state x="320" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.817@0.25.1440.817" timestamp="1608920045205" />
     <state x="361" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608919220034">
       <screen x="0" y="25" width="1440" height="817" />
     </state>
@@ -116,18 +121,22 @@
       <screen x="0" y="25" width="1440" height="817" />
     </state>
     <state width="229" height="457" key="HiddenNamespacesPopup/0.25.1440.817@0.25.1440.817" timestamp="1607447251530" />
-    <state x="511" y="360" key="NewPhpFileDialog" timestamp="1607795646273">
+    <state x="511" y="360" key="NewPhpFileDialog" timestamp="1608919906463">
       <screen x="0" y="25" width="1440" height="817" />
     </state>
-    <state x="511" y="360" key="NewPhpFileDialog/0.25.1440.817@0.25.1440.817" timestamp="1607795646273" />
-    <state x="229" y="69" key="SettingsEditor" timestamp="1607767914747">
+    <state x="511" y="360" key="NewPhpFileDialog/0.25.1440.817@0.25.1440.817" timestamp="1608919906463" />
+    <state x="229" y="69" key="SettingsEditor" timestamp="1608919682456">
       <screen x="0" y="25" width="1440" height="817" />
     </state>
-    <state x="229" y="69" key="SettingsEditor/0.25.1440.817@0.25.1440.817" timestamp="1607767914747" />
+    <state x="229" y="69" key="SettingsEditor/0.25.1440.817@0.25.1440.817" timestamp="1608919682456" />
     <state x="521" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607447152896">
       <screen x="0" y="25" width="1440" height="817" />
     </state>
     <state x="521" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.817@0.25.1440.817" timestamp="1607447152896" />
+    <state x="0" y="25" width="809" height="817" key="find.popup" timestamp="1608920061660">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="0" y="25" width="809" height="817" key="find.popup/0.25.1440.817@0.25.1440.817" timestamp="1608920061660" />
     <state x="385" y="166" width="670" height="676" key="search.everywhere.popup" timestamp="1607791312647">
       <screen x="0" y="25" width="1440" height="817" />
     </state>
